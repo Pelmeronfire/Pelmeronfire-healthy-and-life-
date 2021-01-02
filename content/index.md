@@ -1,7 +1,7 @@
 ---
-title: Home
+title: Gesundheit und Ernährung 2.0
 ---
 
-# The Butler
+# The Butler 
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> Dein Gesundheitsbeauftragter in allen Fragen
