@@ -11,10 +11,6 @@ draft: false
 ---
 Stanley Jacob, MD, hat lange dafür gekämpft, dass DMSO frei verfügbar ist. Trotz der Beweise für die Wirksamkeit von [DMSO](https://www.vitalverywell.com/ernaehrung/dmso-dimethylsulfoxid/) in der Behandlung von Schlaganfall, Alzheimer-Krankheit, Krebs, Arthritis und anderen entzündlichen Erkrankungen haben die Behörden beschlossen, den Amerikanern den Zugang zu dieser bemerkenswerten, unpatentierten Therapie zu verweigern.
 
-<!-- excerpt -->
-
-Stanley Jacob, MD, hat lange dafür gekämpft, dass DMSO frei verfügbar ist. Trotz der Beweise für die Wirksamkeit von [DMSO](https://www.vitalverywell.com/ernaehrung/dmso-dimethylsulfoxid/) in der Behandlung von Schlaganfall, Alzheimer-Krankheit, Krebs, Arthritis und anderen entzündlichen Erkrankungen haben die Behörden beschlossen, den Amerikanern den Zugang zu dieser bemerkenswerten, unpatentierten Therapie zu verweigern.
-
 Trotz jahrzehntelanger Forschung und tausender Studien, die seine gesundheitlichen Vorteile belegen, ist Dimethylsulfoxid (DMSO) in der Ärzteschaft und Öffentlichkeit nahezu unbekannt.
 
 Diese preiswerte Verbindung hat starke entzündungshemmende und schmerzlindernde Eigenschaften, lindert nachweislich schmerzhafte Erkrankungen des Bewegungsapparates und der Harnwege und kann sogar Alzheimer und Krebs bekämpfen. Leider wurde die breite Akzeptanz und Anwendung von der FDA und ihren Verbündeten in der Pharmaindustrie behindert.
