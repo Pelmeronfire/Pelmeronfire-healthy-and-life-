@@ -9,28 +9,19 @@ tags:
 draft: false
 ---
 Vitamin D ist als "Sonnenschein-Vitamin" bekannt und ist für viele wichtige Funktionen im Körper verantwortlich. Aber haben wir auch genug davon?
-Für die meisten Menschen bedeutet Enge, dass sie einen großen Teil des Tages in geschlossenen Räumen verbringen. Viele Menschen haben nicht das Glück, einen Garten zu haben, und mit nur einem Spaziergang pro Tag sind wir auf die Menge an Sonnenschein beschränkt, die wir im Moment bekommen können. 
-
-<!-- excerpt -->
-
-Vitamin D ist als "Sonnenschein-Vitamin" bekannt und ist für viele wichtige Funktionen im Körper verantwortlich. Aber haben wir auch genug davon?
 Für die meisten Menschen bedeutet Enge, dass sie einen großen Teil des Tages in geschlossenen Räumen verbringen. 
 
 Viele Menschen haben nicht das Glück, einen Garten zu haben, und mit nur einem Spaziergang pro Tag sind wir auf die Menge an Sonnenschein beschränkt, die wir im Moment bekommen können. 
-
 
 Unter normalen Umständen, d. h. von April bis Ende September, sollten die meisten Menschen in der Lage sein, die gesamte benötigte Menge an Vitamin D aus der Sonne zu beziehen. Da wir jetzt jedoch gezwungen sind, die meiste Zeit in geschlossenen Räumen zu verbringen, besteht ein erhöhtes Risiko, einen Vitamin-D-Mangel zu entwickeln, da wir möglicherweise nicht genug Sonnenlicht bekommen, um unsere Vorräte aufzufüllen. 
 
 Die Gesundheitsbehörde hat empfohlen, während der Entbindung Vitamin-D-Präparate einzunehmen.
 
-
 "Weil wir uns häufiger in geschlossenen Räumen aufhalten, bekommen wir möglicherweise nicht genug Vitamin D aus dem Sonnenlicht. Wir raten jedem, die tägliche Einnahme eines Vitamin-D-Präparats in Betracht zu ziehen, um seine Knochen, Zähne und Muskeln gesund zu erhalten". Caroline Bloomfield, Public Health Agency (PHA), zuständig für Ernährung und gesundes Essen.
-
 
 Es ist wichtig, dass wir genügend von diesem wichtigen Hormon zu uns nehmen, denn Vitamin D hat viele wichtige Funktionen im Körper und spielt eine Schlüsselrolle bei Immunität, die eine wichtige Rolle bei der Unterstützung des Immunsystems spielt. 
 
-
-## Hormonelle Gesundheit durch Ausgleich unserer Sexualhormone 
+## Hormonelle Gesundheit durch Ausgleich unserer Sexualhormone
 
 **Förderung eines gesunden Verdauungssystems**
 
@@ -54,9 +45,7 @@ Die britische Gesundheitsbehörde hat kürzlich den empfohlenen Wert auf 25ug/Ta
 
 Dazu gehören schwangere und stillende Frauen sowie Bevölkerungsgruppen mit erhöhtem Risiko für einen Vitamin-D-Mangel. Für alle Säuglinge von der Geburt bis zum 1. Lebensjahr werden 8,5-10 Mikrogramm (340-400 IU/d) Vitamin D pro Tag empfohlen; Kinder, die mehr als 500 ml Milch (einschließlich Säuglingsnahrung) pro Tag zu sich nehmen, benötigen jedoch kein zusätzliches Vitamin D.
 
-
 Es gibt viele Vitamin-D-Präparate auf dem Markt, aber Sprays und Tropfen sind leichter zu absorbieren als Tabletten oder Kapseln, und Tropfen sind auch für Kinder leichter einzunehmen.
-
 
 **Hinweis:**
 Es ist möglich, dass Nahrungsergänzungsmittel zu viel Vitamin D/eine Überdosis enthalten, was eine Hyperkalzämie (abnorm hohe Kalziumwerte im Blut) verursachen kann.
