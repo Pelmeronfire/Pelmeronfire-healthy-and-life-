@@ -5,6 +5,7 @@ image: /images/vitamind.jpg
 tags:
   - Gesundheit
   - Ernährung
+  - VitaminD
 draft: false
 ---
 Vitamin D ist als "Sonnenschein-Vitamin" bekannt und ist für viele wichtige Funktionen im Körper verantwortlich. Aber haben wir auch genug davon?
