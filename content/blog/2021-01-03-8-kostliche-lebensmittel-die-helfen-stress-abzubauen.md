@@ -11,6 +11,8 @@ Wenn Sie sich gestresst fühlen, ist es nur natürlich, dass Sie Erleichterung s
 
 Obwohl es schwierig ist, gelegentliche Stressepisoden zu vermeiden, kann chronischer Stress ernsthafte Folgen für Ihre körperliche und emotionale Gesundheit haben. In der Tat kann er Ihr Risiko für Krankheiten wie Herzkrankheiten und Depressionen erhöhen. 
 
+<!-- excerpt -->
+
 Es ist interessant, dass bestimmte Lebensmittel und Getränke Anti-Stress-Eigenschaften haben können.
 
 Hier sind 8 Anti-Stress-Lebensmittel und -Getränke, die Sie in Ihren Speiseplan aufnehmen sollten.
