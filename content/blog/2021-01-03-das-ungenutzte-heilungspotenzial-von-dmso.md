@@ -59,7 +59,7 @@ Dr. Jacob und seine Kollegen haben bereits erste klinische Studien mit DMSO bei 
 
 Aufgrund dieser Ergebnisse hat die FDA Abela den "Fast Track"-Status für die Investigational New Drug Application erteilt und erlaubt dem Unternehmen, DMSO bei Patienten mit traumatischen Hirnverletzungen klinisch zu testen. Die multizentrische, kontrollierte Studie entspricht einer Phase-2b-Studie und soll noch in diesem Jahr beginnen.
 
-Zufällige Entdeckung von DMSO
+## Zufällige Entdeckung von DMSO
 
 DMSO hat eine lange Liste primärer pharmakologischer Wirkungen, darunter die Bekämpfung von Entzündungen, die Linderung von Schmerzen, die Verbesserung der Durchblutung, das Abfangen freier Radikale, die Aufweichung von Narbengewebe und Effekte, die bei Autoimmunerkrankungen von Vorteil sein können.2 Warum also ist eine Behandlung, die sich in jahrzehntelangen Studien als sicher und wirksam bei so vielen Erkrankungen erwiesen hat, nicht für mehr als eine medizinische Anwendung zugelassen? Vielleicht liegt die Antwort in der langen und umstrittenen Geschichte von DMSO, zu der auch die vielen Jahre gehören, die Dr. Jacob mit der Erforschung und dem Kampf um seine Zulassung verbracht hat.
 
@@ -73,7 +73,7 @@ Bevor er nach Oregon kam, war Dr. Jacob an der Fakultät der Harvard Medical Sch
 
 Er kontaktierte Crown Zellerbach und wurde Dr. Herschler vorgestellt, und die beiden taten sich zusammen, um das medizinische Potenzial von DMSO zu untersuchen.
 
-Frühe Forschungen zu DMSO sind vielversprechend
+## Frühe Forschungen zu DMSO sind vielversprechend
 
 Frühe Tier- und Humanstudien haben gezeigt, dass DMSO schnell in die Haut eindringt und die Schmerzen und Entzündungen, die mit Verletzungen wie z. B. Verstauchungen des Knöchels verbunden sind, schnell lindert. Drs. Jacob und Herschler glaubten, dass DMSO Arthritis effektiv behandeln und schließlich als Medikamentenverabreichungssystem dienen könnte. 
 
