@@ -1,6 +1,6 @@
 ---
 title: Das ungenutzte Heilungspotenzial von DMSO - Dimethylsulfoxid
-date: 2021-01-03T14:20:37.994Z
+date: 2021-01-03T17:20:00.000Z
 image: /images/dmso_wirkung_und_forschung.jpg
 tags:
   - Gesundheit
