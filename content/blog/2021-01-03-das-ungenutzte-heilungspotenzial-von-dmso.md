@@ -5,6 +5,8 @@ image: /images/dmso_wirkung_und_forschung.jpg
 tags:
   - Gesundheit
   - Ernährung
+  - DMSO
+  - Dimethylsulfoxid
 draft: false
 ---
 Stanley Jacob, MD, hat lange dafür gekämpft, dass DMSO frei verfügbar ist. Trotz der Beweise für die Wirksamkeit von DMSO in der Behandlung von Schlaganfall, Alzheimer-Krankheit, Krebs, Arthritis und anderen entzündlichen Erkrankungen haben die Behörden beschlossen, den Amerikanern den Zugang zu dieser bemerkenswerten, unpatentierten Therapie zu verweigern.
