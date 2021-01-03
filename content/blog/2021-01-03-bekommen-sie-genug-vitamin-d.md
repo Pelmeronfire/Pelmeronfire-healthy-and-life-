@@ -1,6 +1,6 @@
 ---
 title: Bekommen Sie genug Vitamin D?
-date: 2021-01-03T13:00:00.000Z
+date: 2021-01-02T13:00:00.000Z
 image: /images/vitamind.jpg
 tags:
   - Gesundheit
