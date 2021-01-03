@@ -9,18 +9,17 @@ tags:
   - Dimethylsulfoxid
 draft: false
 ---
-Stanley Jacob, MD, hat lange dafür gekämpft, dass DMSO frei verfügbar ist. Trotz der Beweise für die Wirksamkeit von DMSO in der Behandlung von Schlaganfall, Alzheimer-Krankheit, Krebs, Arthritis und anderen entzündlichen Erkrankungen haben die Behörden beschlossen, den Amerikanern den Zugang zu dieser bemerkenswerten, unpatentierten Therapie zu verweigern.
+Stanley Jacob, MD, hat lange dafür gekämpft, dass DMSO frei verfügbar ist. Trotz der Beweise für die Wirksamkeit von [DMSO](https://www.vitalverywell.com/ernaehrung/dmso-dimethylsulfoxid/) in der Behandlung von Schlaganfall, Alzheimer-Krankheit, Krebs, Arthritis und anderen entzündlichen Erkrankungen haben die Behörden beschlossen, den Amerikanern den Zugang zu dieser bemerkenswerten, unpatentierten Therapie zu verweigern.
 
 <!-- excerpt -->
 
-Stanley Jacob, MD, hat lange dafür gekämpft, dass DMSO frei verfügbar ist. Trotz der Beweise für die Wirksamkeit von DMSO in der Behandlung von Schlaganfall, Alzheimer-Krankheit, Krebs, Arthritis und anderen entzündlichen Erkrankungen haben die Behörden beschlossen, den Amerikanern den Zugang zu dieser bemerkenswerten, unpatentierten Therapie zu verweigern.
+Stanley Jacob, MD, hat lange dafür gekämpft, dass DMSO frei verfügbar ist. Trotz der Beweise für die Wirksamkeit von [DMSO](https://www.vitalverywell.com/ernaehrung/dmso-dimethylsulfoxid/) in der Behandlung von Schlaganfall, Alzheimer-Krankheit, Krebs, Arthritis und anderen entzündlichen Erkrankungen haben die Behörden beschlossen, den Amerikanern den Zugang zu dieser bemerkenswerten, unpatentierten Therapie zu verweigern.
 
 Trotz jahrzehntelanger Forschung und tausender Studien, die seine gesundheitlichen Vorteile belegen, ist Dimethylsulfoxid (DMSO) in der Ärzteschaft und Öffentlichkeit nahezu unbekannt.
 
 Diese preiswerte Verbindung hat starke entzündungshemmende und schmerzlindernde Eigenschaften, lindert nachweislich schmerzhafte Erkrankungen des Bewegungsapparates und der Harnwege und kann sogar Alzheimer und Krebs bekämpfen. Leider wurde die breite Akzeptanz und Anwendung von der FDA und ihren Verbündeten in der Pharmaindustrie behindert.
 
 Seit mehr als 40 Jahren kämpft Dr. Stanley Jacob gegen das Establishment für DMSO. In diesem Artikel enthüllt Dr. Jacob neue Daten, die das Potenzial von DMSO bei der Behandlung von traumatischen Hirnverletzungen zeigen, von denen jedes Jahr mehr als 50.000 Amerikaner betroffen sind.
-
 
 ## Was Sie über DMSO wissen müssen
 
@@ -64,7 +63,6 @@ Dr. Jacob und seine Kollegen haben bereits erste klinische Studien mit DMSO bei 
 
 Aufgrund dieser Ergebnisse hat die FDA Abela den "Fast Track"-Status für die Investigational New Drug Application erteilt und erlaubt dem Unternehmen, DMSO bei Patienten mit traumatischen Hirnverletzungen klinisch zu testen. Die multizentrische, kontrollierte Studie entspricht einer Phase-2b-Studie und soll noch in diesem Jahr beginnen.
 
-## 
 Zufällige Entdeckung von DMSO
 
 DMSO hat eine lange Liste primärer pharmakologischer Wirkungen, darunter die Bekämpfung von Entzündungen, die Linderung von Schmerzen, die Verbesserung der Durchblutung, das Abfangen freier Radikale, die Aufweichung von Narbengewebe und Effekte, die bei Autoimmunerkrankungen von Vorteil sein können.2 Warum also ist eine Behandlung, die sich in jahrzehntelangen Studien als sicher und wirksam bei so vielen Erkrankungen erwiesen hat, nicht für mehr als eine medizinische Anwendung zugelassen? Vielleicht liegt die Antwort in der langen und umstrittenen Geschichte von DMSO, zu der auch die vielen Jahre gehören, die Dr. Jacob mit der Erforschung und dem Kampf um seine Zulassung verbracht hat.
@@ -79,7 +77,6 @@ Bevor er nach Oregon kam, war Dr. Jacob an der Fakultät der Harvard Medical Sch
 
 Er kontaktierte Crown Zellerbach und wurde Dr. Herschler vorgestellt, und die beiden taten sich zusammen, um das medizinische Potenzial von DMSO zu untersuchen.
 
-## 
 Frühe Forschungen zu DMSO sind vielversprechend
 
 Frühe Tier- und Humanstudien haben gezeigt, dass DMSO schnell in die Haut eindringt und die Schmerzen und Entzündungen, die mit Verletzungen wie z. B. Verstauchungen des Knöchels verbunden sind, schnell lindert. Drs. Jacob und Herschler glaubten, dass DMSO Arthritis effektiv behandeln und schließlich als Medikamentenverabreichungssystem dienen könnte. 
