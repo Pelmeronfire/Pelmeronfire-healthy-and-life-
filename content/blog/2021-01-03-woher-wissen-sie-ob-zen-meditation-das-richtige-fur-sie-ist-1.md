@@ -8,13 +8,11 @@ tags:
   - Gesundheit
 draft: false
 ---
-<!--StartFragment-->
-
-## Woher wissen Sie, ob Zen-Meditation das Richtige für Sie ist?
-
 Die Zen-Meditation, auch Zazen genannt, ist eine Meditationstechnik, die ihre Wurzeln in der buddhistischen Psychologie hat. Der Zweck der Zen-Meditation ist es, die Aufmerksamkeit zu regulieren.
 
 Bei der Zen-Meditation sitzt man normalerweise im Lotussitz - oder im Schneidersitz - und richtet seine Aufmerksamkeit nach innen. Während einige Praktizierende sagen, dass dieser Schritt durch das Zählen der Atemzüge - normalerweise von eins bis zehn - vollzogen wird, sagen andere, dass es kein Zählen gibt.
+
+<!-- excerpt -->
 
 ## Was während der Zen-Meditation geschieht
 
@@ -67,5 +65,3 @@ Zen-Meditations-Retreats sind besonders bei China-Touristen beliebt, die die Pra
 Wenn es um Meditation geht, ist es wichtig, die Art der Meditation zu finden, die am besten zu Ihnen passt. Die Forschung zeigt, dass die Zen-Meditation nicht immer die bevorzugte Art ist. In der Tat steht es manchmal am Ende der Liste.
 
 In einer Studie aus dem Jahr 2012 verbrachten Studenten sieben Tage damit, eine bestimmte Art der Meditation über einen Zeitraum von vier Wochen zu praktizieren. Am Ende der Studie wurden sie gebeten, die Meditationspraktiken in der Reihenfolge ihrer persönlichen Präferenz zu ordnen.8 Signifikant mehr Teilnehmer stuften die Vipassana- (Achtsamkeits-) Meditation und die Mantra-Meditation als besser ein als die Zen- und Qigong-Visualisierung.
-
-<!--EndFragment-->
