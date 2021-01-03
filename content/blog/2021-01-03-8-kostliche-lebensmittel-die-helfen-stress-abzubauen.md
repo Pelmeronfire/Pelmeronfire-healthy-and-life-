@@ -25,7 +25,7 @@ Matcha ist eine bessere Quelle für diese Aminosäure als andere Arten von grün
 
 Studien an Menschen und Tieren zeigen, dass Matcha Stress reduzieren kann, wenn sein L-Theanin-Gehalt hoch genug und sein Koffeingehalt niedrig ist.
 
-In einer 15-tägigen Studie aßen zum Beispiel 36 Personen täglich Kekse, die 4,5 Gramm Matcha-Pulver enthielten. Sie fanden eine signifikante Reduzierung der Alpha-Amylase-Aktivität im Speichel, einem Marker für Stress, im Vergleich zu einer Placebo-Gruppe.
+In einer 15-tägigen Studie aßen zum Beispiel 36 Personen täglich Kekse, die 4,5 Gramm [Matcha](https://www.focus.de/gesundheit/ernaehrung/gesundessen/matcha-tee-so-gesund-ist-er-wirklich_id_8487976.html)-Pulver enthielten. Sie fanden eine signifikante Reduzierung der Alpha-Amylase-Aktivität im Speichel, einem Marker für Stress, im Vergleich zu einer Placebo-Gruppe.
 
 ## Mangold
 
@@ -37,7 +37,7 @@ Niedrige Werte dieses Minerals werden mit Erkrankungen wie Angstzuständen und P
 
 ## Süßkartoffeln
 
-Der Verzehr von nährstoffreichen, vollwertigen Kohlenhydratquellen wie Süßkartoffeln kann helfen, den Spiegel des Stresshormons Cortisol zu senken.
+Der Verzehr von nährstoffreichen, vollwertigen Kohlenhydratquellen wie Süßkartoffeln kann helfen, den Spiegel des Stresshormons [Cortisol](https://de.wikipedia.org/wiki/Cortisol) zu senken.
 
 Obwohl der Cortisolspiegel streng reguliert wird, kann chronischer Stress zu einer Cortisol-Dysfunktion führen, die Entzündungen, Schmerzen und andere Nebenwirkungen verursachen kann.
 
@@ -83,7 +83,7 @@ Obwohl sie frisch genossen werden können, sind Acerola-Kirschen leicht verderbl
 
 Blaubeeren werden mit einer Reihe von gesundheitlichen Vorteilen in Verbindung gebracht, einschließlich einer verbesserten Stimmung.
 
-Diese Beeren sind reich an antioxidativen Flavonoiden, die eine starke entzündungshemmende und neuroprotektive Wirkung haben. Sie können helfen, stressbedingte Entzündungen zu reduzieren und vor stressbedingten Zellschäden zu schützen.
+Diese Beeren sind reich an [antioxidativen Flavonoiden](https://www.karger.com/Article/Abstract/210163), die eine starke entzündungshemmende und neuroprotektive Wirkung haben. Sie können helfen, stressbedingte Entzündungen zu reduzieren und vor stressbedingten Zellschäden zu schützen.
 
 Darüber hinaus haben Studien gezeigt, dass der Verzehr von flavonoidreichen Lebensmitteln wie Blaubeeren vor Depressionen schützen und die Stimmung verbessern kann.
 
