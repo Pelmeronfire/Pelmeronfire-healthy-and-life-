@@ -11,6 +11,8 @@ draft: false
 Vitamin D ist als "Sonnenschein-Vitamin" bekannt und ist für viele wichtige Funktionen im Körper verantwortlich. Aber haben wir auch genug davon?
 Für die meisten Menschen bedeutet Enge, dass sie einen großen Teil des Tages in geschlossenen Räumen verbringen. 
 
+<!-- excerpt -->
+
 Viele Menschen haben nicht das Glück, einen Garten zu haben, und mit nur einem Spaziergang pro Tag sind wir auf die Menge an Sonnenschein beschränkt, die wir im Moment bekommen können. 
 
 Unter normalen Umständen, d. h. von April bis Ende September, sollten die meisten Menschen in der Lage sein, die gesamte benötigte Menge an Vitamin D aus der Sonne zu beziehen. Da wir jetzt jedoch gezwungen sind, die meiste Zeit in geschlossenen Räumen zu verbringen, besteht ein erhöhtes Risiko, einen Vitamin-D-Mangel zu entwickeln, da wir möglicherweise nicht genug Sonnenlicht bekommen, um unsere Vorräte aufzufüllen. 
