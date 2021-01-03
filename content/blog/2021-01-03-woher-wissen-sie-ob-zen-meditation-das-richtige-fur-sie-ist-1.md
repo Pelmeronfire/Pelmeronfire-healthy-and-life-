@@ -8,12 +8,6 @@ tags:
   - Gesundheit
 draft: false
 ---
-Die Zen-Meditation, auch Zazen genannt, ist eine Meditationstechnik, die ihre Wurzeln in der buddhistischen Psychologie hat. Der Zweck der Zen-Meditation ist es, die Aufmerksamkeit zu regulieren.
-
-Bei der Zen-Meditation sitzt man normalerweise im Lotussitz - oder im Schneidersitz - und richtet seine Aufmerksamkeit nach innen. Während einige Praktizierende sagen, dass dieser Schritt durch das Zählen der Atemzüge - normalerweise von eins bis zehn - vollzogen wird, sagen andere, dass es kein Zählen gibt.
-
-<!-- excerpt -->
-
 <!--StartFragment-->
 
 ## Woher wissen Sie, ob Zen-Meditation das Richtige für Sie ist?
