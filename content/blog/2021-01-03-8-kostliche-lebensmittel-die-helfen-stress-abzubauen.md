@@ -1,5 +1,5 @@
 ---
-title: 8 köstliche Lebensmittel, die helfen, Stress abzubauen
+title: Acht köstliche Lebensmittel, die helfen, Stress abzubauen
 date: 2021-01-03T14:34:02.872Z
 image: /images/lebensmittel-gegen-stress.jpg
 tags:
