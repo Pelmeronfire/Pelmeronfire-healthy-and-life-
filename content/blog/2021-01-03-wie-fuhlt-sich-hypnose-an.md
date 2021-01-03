@@ -21,7 +21,7 @@ Wie alle anderen Zustände wird auch die hypnotische Trance stark von der Einste
 
 Viele Menschen zögern, eine Hypnosetherapie auszuprobieren, weil sie hypnotische Szenen oder Ähnliches im Fernsehen gesehen haben und befürchten, dass sie, wenn sie hypnotisiert werden, die Kontrolle verlieren, etwas Peinliches tun oder die Erfahrung als unangenehm empfinden. Meistens ist das Gegenteil der Fall.
 
-Die hypnotherapeutische Hypnose unterscheidet sich von der Bühnenhypnose, die zur Unterhaltung eines Publikums induziert wird.
+Die [hypnotherapeutische Hypnose](https://www.apotheken-umschau.de/Therapien/Hypnotherapie-Hypnose-als-Heilmittel-460733.html) unterscheidet sich von der Bühnenhypnose, die zur Unterhaltung eines Publikums induziert wird.
 
 Es gibt häufige Gefühle und Gedankenprozesse, die Menschen erleben, wenn sie zu therapeutischen Zwecken einer Hypnose unterzogen werden. Diese Beschreibung passt jedoch nicht immer auf alle hypnotischen Subjekte. Wenn Sie eine Hypnosetherapie in Erwägung ziehen, gibt sie Ihnen eine Vorstellung davon, was Sie erwarten können.
 
