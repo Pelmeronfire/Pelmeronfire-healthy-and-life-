@@ -1,6 +1,6 @@
 ---
 title: Woher wissen Sie, ob Zen-Meditation das Richtige für Sie ist?
-date: 2021-01-03T18:03:49.791Z
+date: 2021-01-03T16:03:00.000Z
 image: /images/zen_meditation.jpg
 tags:
   - Meditation
