@@ -1,63 +1,22 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-US">
-  <head>
-    <link href="https://gmpg.org/xfn/11" rel="profile">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-    <title>Bekommen Sie genug Vitamin D? &middot; The Butler</title>
-    <meta name="description" content="Dein Gesundheitsbeauftragter" />
-    <meta name="keywords" content="Gesundheit, Ernährung, VitaminD, Cecil, Static Site Generator, SSG" />
-    <meta name="author" content="Arnaud Ligny" />
-    <link rel="canonical" type="text/html" title="Bekommen Sie genug Vitamin D? &middot; The Butler" href="/blog/princess-mononoke/" />
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:site_name" content="The Butler" />
-    <meta property="og:type" content="article" />
-    <meta property="og:title" content="Bekommen Sie genug Vitamin D? &middot; The Butler" />
-    <meta property="og:description" content="Dein Gesundheitsbeauftragter" />
-    <meta property="og:url" content="/blog/princess-mononoke/" />
-    <meta property="og:image" content="/images/vitamind.a6f8f7428048658e0f6c7e812ad8b0b9.jpg" />
-    <meta property="og:image:type" content="image/jpeg" />
-    <meta property="og:image:width" content="700" />
-    <meta property="og:image:height" content="467" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
-    <link rel="shortcut icon" href="/favicon.ico">
-    <link rel="stylesheet" href="/styles.2ed26c8c43c597e80160a75eaf1fda79.min.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
-    <link rel="stylesheet" href="/css/monokai-sublime.0c8b4c0e8a584e7142b08d914644cd9d.min.css">
-    <script src="/js/highlight-9.13.1.min.2fa064f94c70848f3999ad3402ca49c8.min.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
-
-    <!-- Netlify Identity -->
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <script>if(window.netlifyIdentity){window.netlifyIdentity.on('init',user=>{if(!user){window.netlifyIdentity.on('login',()=>{document.location.href="/admin/"})}})}</script>
-    <meta name="generator" content="Cecil 5.42.5" />
-  </head>
-  <body class="">
-    <div class="sidebar">
-      <div class="container  sidebar-sticky">
-        <div class="sidebar-about">
-          <h1>
-            <a href="/">The Butler</a>
-          </h1>
-          <p class="lead">Dein Gesundheitsbeauftragter</p>
-        </div>
-        <nav class="sidebar-nav">
-          <a class="sidebar-nav-item item-weight-0" href="/">Gesundheit und Ernährung 2.0</a>
-          <a class="sidebar-nav-item item-weight-100" href="/blog/">Blog</a>
-          <a class="sidebar-nav-item item-weight-999" href="/about/">About</a>
-        </nav>
-        <p>Powered by <a href="https://cecil.app/#5.42.5">Cecil</a> &amp; <a href="https://github.com/poole/hyde#readme">Hyde</a>.</p>
-      </div>
-    </div>
-    <div class="content container">
-      <h1 class="page-title">Bekommen Sie genug Vitamin D?</h1>
-      <span class="post-date">9 Mar 2020</span>
-      <img src="/images/vitamind.jpg" />
-      <p>Vitamin D ist als &quot;Sonnenschein-Vitamin&quot; bekannt und ist für viele wichtige Funktionen im Körper verantwortlich. Aber haben wir auch genug davon?
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>/tags/vitamind/</id>
+  <title>The Butler - VitaminD</title>
+  <subtitle><![CDATA[Dein Gesundheitsbeauftragter]]></subtitle>
+  <link href="/tags/vitamind/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="/tags/vitamind/" rel="alternate" type="text/html" />
+  <updated>2020-03-09T01:00:00+01:00</updated>
+  <author>
+    <name>The Butler</name>
+    <uri>/</uri>
+  </author>
+  <entry xml:lang="en">
+    <id>/blog/princess-mononoke/</id>
+    <title>Bekommen Sie genug Vitamin D?</title>
+    <content type="html">
+      <![CDATA[<p>Vitamin D ist als &quot;Sonnenschein-Vitamin&quot; bekannt und ist für viele wichtige Funktionen im Körper verantwortlich. Aber haben wir auch genug davon?
 Für die meisten Menschen bedeutet Enge, dass sie einen großen Teil des Tages in geschlossenen Räumen verbringen. Viele Menschen haben nicht das Glück, einen Garten zu haben, und mit nur einem Spaziergang pro Tag sind wir auf die Menge an Sonnenschein beschränkt, die wir im Moment bekommen können. </p>
-<span id="more"></span>
+<!-- excerpt -->
 <p>Vitamin D ist als &quot;Sonnenschein-Vitamin&quot; bekannt und ist für viele wichtige Funktionen im Körper verantwortlich. Aber haben wir auch genug davon?
 Für die meisten Menschen bedeutet Enge, dass sie einen großen Teil des Tages in geschlossenen Räumen verbringen. </p>
 <p>Viele Menschen haben nicht das Glück, einen Garten zu haben, und mit nur einem Spaziergang pro Tag sind wir auf die Menge an Sonnenschein beschränkt, die wir im Moment bekommen können. </p>
@@ -79,12 +38,10 @@ Für die meisten Menschen bedeutet Enge, dass sie einen großen Teil des Tages i
 <p>Dazu gehören schwangere und stillende Frauen sowie Bevölkerungsgruppen mit erhöhtem Risiko für einen Vitamin-D-Mangel. Für alle Säuglinge von der Geburt bis zum 1. Lebensjahr werden 8,5-10 Mikrogramm (340-400 IU/d) Vitamin D pro Tag empfohlen; Kinder, die mehr als 500 ml Milch (einschließlich Säuglingsnahrung) pro Tag zu sich nehmen, benötigen jedoch kein zusätzliches Vitamin D.</p>
 <p>Es gibt viele Vitamin-D-Präparate auf dem Markt, aber Sprays und Tropfen sind leichter zu absorbieren als Tabletten oder Kapseln, und Tropfen sind auch für Kinder leichter einzunehmen.</p>
 <p><strong>Hinweis:</strong>
-Es ist möglich, dass Nahrungsergänzungsmittel zu viel Vitamin D/eine Überdosis enthalten, was eine Hyperkalzämie (abnorm hohe Kalziumwerte im Blut) verursachen kann.</p>
-      <p>
-        <a href="/tags/gesundheit/">#Gesundheit</a>&nbsp;
-        <a href="/tags/ernaehrung/">#Ernährung</a>&nbsp;
-        <a href="/tags/vitamind/">#VitaminD</a>&nbsp;
-      </p>
-    </div>
-  </body>
-</html>
+Es ist möglich, dass Nahrungsergänzungsmittel zu viel Vitamin D/eine Überdosis enthalten, was eine Hyperkalzämie (abnorm hohe Kalziumwerte im Blut) verursachen kann.</p>]]>
+    </content>
+    <link href="/blog/princess-mononoke/" rel="alternate" type="text/html" />
+    <published>2020-03-09T01:00:00+01:00</published>
+    <updated>2020-03-09T01:00:00+01:00</updated>
+  </entry>
+</feed>
