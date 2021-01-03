@@ -39,7 +39,7 @@ Kopfverletzungen sind die häufigsten Verletzungen bei Soldaten, die aus dem Ira
 
 An der Spitze dieser Arbeit steht Dr. Stanley Jacob, ein bahnbrechender DMSO-Forscher und Mitglied des wissenschaftlichen Beirats der Life Extension Foundation. Dr. Jacob, der seit den frühen 1960er Jahren an DMSO und seinen vielen medizinischen Anwendungen forscht, wird oft als "Vater des DMSO" bezeichnet, um seine lebenslange Arbeit zu würdigen, mit der er versucht hat, diese einzigartige Verbindung an die Spitze der modernen Medizin zu bringen.
 
-Seine Entschlossenheit im Angesicht von Hindernissen seitens der Regierung und der Pharmaindustrie ist legendär. Als Mitglied der Fakultät der Oregon Health and Science University in Portland behauptet Dr. Jacob, dass DMSO eine wirksame Behandlung für geschlossene Kopfverletzungen sein kann und vielversprechend für andere Erkrankungen wie Rückenmarksverletzungen und Embolien ist.
+Seine Entschlossenheit im Angesicht von Hindernissen seitens der Regierung und der Pharmaindustrie ist legendär. Als Mitglied der Fakultät der [Oregon Health and Science University](https://www.ohsu.edu/) in Portland behauptet Dr. Jacob, dass DMSO eine wirksame Behandlung für geschlossene Kopfverletzungen sein kann und vielversprechend für andere Erkrankungen wie Rückenmarksverletzungen und Embolien ist.
 
 "Eine geschlossene Kopfverletzung ist ein schweres Trauma aufgrund einer stumpfen Verletzung, bei der der Kopf nicht geöffnet wurde", erklärt er. "Es handelt sich um die Art von Verletzungen, die bei einem Autounfall auftreten können, wie z. B. eine schwere Gehirnerschütterung, die zu Bewusstlosigkeit führt. Bei dieser Art von Verletzung schwillt das Gehirn gegen den harten Schädelknochen an, wodurch Gehirnzellen absterben. 
 
@@ -71,7 +71,7 @@ Crown Zellerbach mit Sitz im Bundesstaat Washington beauftragte einen seiner Che
 
 Dr. Jacob, damals Assistenzprofessor für Chirurgie an der University of Oregon School of Medicine (später umbenannt in Oregon Health and Science University), erfuhr von britischen Forschungen, die zeigten, dass DMSO als medizinisches "Frostschutzmittel" fungierte, um gefrorene Blutzellen für die Lagerung zu schützen. Er war fasziniert, denn sein Hauptforschungsinteresse galt der Konservierung von Organen für die Transplantation. 
 
-Bevor er nach Oregon kam, war Dr. Jacob an der Fakultät der Harvard Medical School und hatte mit Forschern des Massachusetts Institute of Technology (MIT) zusammengearbeitet, um ein Gerät zu entwickeln, mit dem eine Niere von innen nach außen durch das Gefäßsystem der Niere eingefroren werden kann, wodurch verhindert wird, dass eine Eishülle die Niere umgibt. In Oregon sah Dr. Jacob in DMSO ein mögliches chemisches Mittel, um Organe vor dem Einfrieren zu schützen. 
+Bevor er nach Oregon kam, war Dr. Jacob an der Fakultät der Harvard Medical School und hatte mit Forschern des Massachusetts Institute of Technology ([MIT](https://www.mit.edu/)) zusammengearbeitet, um ein Gerät zu entwickeln, mit dem eine Niere von innen nach außen durch das Gefäßsystem der Niere eingefroren werden kann, wodurch verhindert wird, dass eine Eishülle die Niere umgibt. In Oregon sah Dr. Jacob in DMSO ein mögliches chemisches Mittel, um Organe vor dem Einfrieren zu schützen. 
 
 Er kontaktierte Crown Zellerbach und wurde Dr. Herschler vorgestellt, und die beiden taten sich zusammen, um das medizinische Potenzial von DMSO zu untersuchen.
 
