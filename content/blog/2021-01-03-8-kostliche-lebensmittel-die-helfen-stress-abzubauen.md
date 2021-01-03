@@ -7,12 +7,6 @@ tags:
   - Gesundheit
 draft: false
 ---
-Obwohl es schwierig ist, gelegentliche Stressepisoden zu vermeiden, kann chronischer Stress ernsthafte Folgen für Ihre körperliche und emotionale Gesundheit haben. In der Tat kann er Ihr Risiko für Krankheiten wie Herzkrankheiten und Depressionen erhöhen. 
-
-Es ist interessant, dass bestimmte Lebensmittel und Getränke Anti-Stress-Eigenschaften haben können.
-
-<!-- excerpt -->
-
 Wenn Sie sich gestresst fühlen, ist es nur natürlich, dass Sie Erleichterung suchen.
 
 Obwohl es schwierig ist, gelegentliche Stressepisoden zu vermeiden, kann chronischer Stress ernsthafte Folgen für Ihre körperliche und emotionale Gesundheit haben. In der Tat kann er Ihr Risiko für Krankheiten wie Herzkrankheiten und Depressionen erhöhen. 
@@ -59,7 +53,7 @@ Darüber hinaus zeigte eine Übersichtsarbeit, dass Menschen, die 5 oder mehr Gr
 
 Artischocken sind außerdem reich an Kalium, Magnesium und den Vitaminen C und K, die für eine gesunde Reaktion auf Stress wichtig sind.
 
-## Eier 
+## Eier
 
 Eier werden wegen ihres beeindruckenden Nährstoffprofils oft als das Multivitamin der Natur bezeichnet. Volleier sind voll von Vitaminen, Mineralien, Aminosäuren und Antioxidantien, die für eine gesunde Reaktion auf Stress benötigt werden.
 
