@@ -7,7 +7,9 @@ tags:
   - Hypnose
 draft: false
 ---
-Hypnose ist ein veränderter Bewusstseinszustand, der manchmal in der Hypnotherapie verwendet wird, um abhängige Menschen zu behandeln. Obwohl Hypnotherapie im Allgemeinen nicht die erste Behandlungslinie für Süchtige ist, haben viele Menschen sie erfolgreich genutzt, um ohne weitere Intervention mit dem Rauchen aufzuhören. Eine Studie legt nahe, dass Hypnotherapie bei der Raucherentwöhnung sogar effektiver ist als eine Nikotinersatztherapie.1
+Hypnose ist ein veränderter Bewusstseinszustand, der manchmal in der Hypnotherapie verwendet wird, um abhängige Menschen zu behandeln. Obwohl Hypnotherapie im Allgemeinen nicht die erste Behandlungslinie für Süchtige ist, haben viele Menschen sie erfolgreich genutzt, um ohne weitere Intervention mit dem Rauchen aufzuhören. Eine Studie legt nahe, dass Hypnotherapie bei der Raucherentwöhnung sogar effektiver ist als eine Nikotinersatztherapie.
+
+<!-- excerpt -->
 
 Hypnotherapie kann auch bei der Behandlung anderer Süchte helfen, entweder allein oder in Kombination mit anderen Psychotherapien wie der kognitiven Verhaltenstherapie. Obwohl es wenig Forschung über seine Wirksamkeit bei der Behandlung von Sucht gibt, unterstützen einige Studien seine Verwendung. Wenn Sie andere Behandlungen ausprobiert haben und Ihre Sucht noch nicht überwinden konnten, kann eine Hypnotherapie in Betracht gezogen werden.
 
