@@ -21,7 +21,7 @@ Die Gesundheitsbehörde hat empfohlen, während der Entbindung Vitamin-D-Präpar
 
 "Weil wir uns häufiger in geschlossenen Räumen aufhalten, bekommen wir möglicherweise nicht genug Vitamin D aus dem Sonnenlicht. Wir raten jedem, die tägliche Einnahme eines Vitamin-D-Präparats in Betracht zu ziehen, um seine Knochen, Zähne und Muskeln gesund zu erhalten". Caroline Bloomfield, Public Health Agency (PHA), zuständig für Ernährung und gesundes Essen.
 
-Es ist wichtig, dass wir genügend von diesem wichtigen Hormon zu uns nehmen, denn Vitamin D hat viele wichtige Funktionen im Körper und spielt eine Schlüsselrolle bei Immunität, die eine wichtige Rolle bei der Unterstützung des Immunsystems spielt. 
+Es ist wichtig, dass wir genügend von diesem wichtigen Hormon zu uns nehmen, denn [Vitamin D](https://www.health.harvard.edu/staying-healthy/time-for-more-vitamin-d) hat viele wichtige Funktionen im Körper und spielt eine Schlüsselrolle bei Immunität, die eine wichtige Rolle bei der Unterstützung des Immunsystems spielt. 
 
 ## Hormonelle Gesundheit durch Ausgleich unserer Sexualhormone
 
@@ -50,4 +50,4 @@ Dazu gehören schwangere und stillende Frauen sowie Bevölkerungsgruppen mit erh
 Es gibt viele Vitamin-D-Präparate auf dem Markt, aber Sprays und Tropfen sind leichter zu absorbieren als Tabletten oder Kapseln, und Tropfen sind auch für Kinder leichter einzunehmen.
 
 **Hinweis:**
-Es ist möglich, dass Nahrungsergänzungsmittel zu viel Vitamin D/eine Überdosis enthalten, was eine Hyperkalzämie (abnorm hohe Kalziumwerte im Blut) verursachen kann.
+Es ist möglich, dass Nahrungsergänzungsmittel zu viel Vitamin D/eine Überdosis enthalten, was eine [Hyperkalzämie](https://de.wikipedia.org/wiki/Hyperkalz%C3%A4mie) (abnorm hohe Kalziumwerte im Blut) verursachen kann.
